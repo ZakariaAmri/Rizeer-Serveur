@@ -1,5 +1,4 @@
 logs
-project/project
 project/target
 target
 tmp
@@ -13,4 +12,4 @@ dist
 /.settings
 /.DS_Store
 /bin/
-/.project_old
+
